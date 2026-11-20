@@ -1,0 +1,811 @@
+{
+ "version": 1,
+ "domains": [
+  {
+   "d": "gov.il",
+   "level": 1,
+   "cat": "ממשלה וזכויות"
+  },
+  {
+   "d": "btl.gov.il",
+   "level": 1,
+   "cat": "ממשלה וזכויות"
+  },
+  {
+   "d": "kolzchut.org.il",
+   "level": 1,
+   "cat": "ממשלה וזכויות"
+  },
+  {
+   "d": "court.gov.il",
+   "level": 1,
+   "cat": "ממשלה וזכויות"
+  },
+  {
+   "d": "knesset.gov.il",
+   "level": 1,
+   "cat": "ממשלה וזכויות"
+  },
+  {
+   "d": "taasuka.gov.il",
+   "level": 1,
+   "cat": "ממשלה וזכויות"
+  },
+  {
+   "d": "boi.org.il",
+   "level": 1,
+   "cat": "בנקים, אשראי, ביטוח והשקעות"
+  },
+  {
+   "d": "leumi.co.il",
+   "level": 1,
+   "cat": "בנקים, אשראי, ביטוח והשקעות"
+  },
+  {
+   "d": "bankhapoalim.co.il",
+   "level": 1,
+   "cat": "בנקים, אשראי, ביטוח והשקעות"
+  },
+  {
+   "d": "discountbank.co.il",
+   "level": 1,
+   "cat": "בנקים, אשראי, ביטוח והשקעות"
+  },
+  {
+   "d": "mizrahi-tefahot.co.il",
+   "level": 1,
+   "cat": "בנקים, אשראי, ביטוח והשקעות"
+  },
+  {
+   "d": "fibi.co.il",
+   "level": 1,
+   "cat": "בנקים, אשראי, ביטוח והשקעות"
+  },
+  {
+   "d": "bank-yahav.co.il",
+   "level": 1,
+   "cat": "בנקים, אשראי, ביטוח והשקעות"
+  },
+  {
+   "d": "mercantile.co.il",
+   "level": 1,
+   "cat": "בנקים, אשראי, ביטוח והשקעות"
+  },
+  {
+   "d": "bankjerusalem.co.il",
+   "level": 1,
+   "cat": "בנקים, אשראי, ביטוח והשקעות"
+  },
+  {
+   "d": "onezerobank.com",
+   "level": 1,
+   "cat": "בנקים, אשראי, ביטוח והשקעות"
+  },
+  {
+   "d": "bankhadoar.co.il",
+   "level": 1,
+   "cat": "בנקים, אשראי, ביטוח והשקעות"
+  },
+  {
+   "d": "isracard.co.il",
+   "level": 1,
+   "cat": "בנקים, אשראי, ביטוח והשקעות"
+  },
+  {
+   "d": "cal-online.co.il",
+   "level": 1,
+   "cat": "בנקים, אשראי, ביטוח והשקעות"
+  },
+  {
+   "d": "max.co.il",
+   "level": 1,
+   "cat": "בנקים, אשראי, ביטוח והשקעות"
+  },
+  {
+   "d": "americanexpress.co.il",
+   "level": 1,
+   "cat": "בנקים, אשראי, ביטוח והשקעות"
+  },
+  {
+   "d": "harel-group.co.il",
+   "level": 1,
+   "cat": "בנקים, אשראי, ביטוח והשקעות"
+  },
+  {
+   "d": "migdal.co.il",
+   "level": 1,
+   "cat": "בנקים, אשראי, ביטוח והשקעות"
+  },
+  {
+   "d": "menoramivt.co.il",
+   "level": 1,
+   "cat": "בנקים, אשראי, ביטוח והשקעות"
+  },
+  {
+   "d": "clalbit.co.il",
+   "level": 1,
+   "cat": "בנקים, אשראי, ביטוח והשקעות"
+  },
+  {
+   "d": "fnx.co.il",
+   "level": 1,
+   "cat": "בנקים, אשראי, ביטוח והשקעות"
+  },
+  {
+   "d": "ayalon-ins.co.il",
+   "level": 1,
+   "cat": "בנקים, אשראי, ביטוח והשקעות"
+  },
+  {
+   "d": "shirbit.co.il",
+   "level": 1,
+   "cat": "בנקים, אשראי, ביטוח והשקעות"
+  },
+  {
+   "d": "9000000.co.il",
+   "level": 1,
+   "cat": "בנקים, אשראי, ביטוח והשקעות"
+  },
+  {
+   "d": "555.co.il",
+   "level": 1,
+   "cat": "בנקים, אשראי, ביטוח והשקעות"
+  },
+  {
+   "d": "aig.co.il",
+   "level": 1,
+   "cat": "בנקים, אשראי, ביטוח והשקעות"
+  },
+  {
+   "d": "meitav.co.il",
+   "level": 1,
+   "cat": "בנקים, אשראי, ביטוח והשקעות"
+  },
+  {
+   "d": "as-invest.co.il",
+   "level": 1,
+   "cat": "בנקים, אשראי, ביטוח והשקעות"
+  },
+  {
+   "d": "more.co.il",
+   "level": 1,
+   "cat": "בנקים, אשראי, ביטוח והשקעות"
+  },
+  {
+   "d": "psagot.co.il",
+   "level": 1,
+   "cat": "בנקים, אשראי, ביטוח והשקעות"
+  },
+  {
+   "d": "clalit.co.il",
+   "level": 1,
+   "cat": "בריאות"
+  },
+  {
+   "d": "maccabi4u.co.il",
+   "level": 1,
+   "cat": "בריאות"
+  },
+  {
+   "d": "meuhedet.co.il",
+   "level": 1,
+   "cat": "בריאות"
+  },
+  {
+   "d": "leumit.co.il",
+   "level": 1,
+   "cat": "בריאות"
+  },
+  {
+   "d": "mdais.org",
+   "level": 1,
+   "cat": "בריאות"
+  },
+  {
+   "d": "sheba.co.il",
+   "level": 1,
+   "cat": "בריאות"
+  },
+  {
+   "d": "hadassah.org.il",
+   "level": 1,
+   "cat": "בריאות"
+  },
+  {
+   "d": "tasmc.org.il",
+   "level": 1,
+   "cat": "בריאות"
+  },
+  {
+   "d": "rambam.org.il",
+   "level": 1,
+   "cat": "בריאות"
+  },
+  {
+   "d": "szmc.org.il",
+   "level": 1,
+   "cat": "בריאות"
+  },
+  {
+   "d": "assuta.co.il",
+   "level": 1,
+   "cat": "בריאות"
+  },
+  {
+   "d": "ravkavonline.co.il",
+   "level": 1,
+   "cat": "תחבורה, כבישים וחניה"
+  },
+  {
+   "d": "hopon.co.il",
+   "level": 1,
+   "cat": "תחבורה, כבישים וחניה"
+  },
+  {
+   "d": "rail.co.il",
+   "level": 1,
+   "cat": "תחבורה, כבישים וחניה"
+  },
+  {
+   "d": "egged.co.il",
+   "level": 1,
+   "cat": "תחבורה, כבישים וחניה"
+  },
+  {
+   "d": "dan.co.il",
+   "level": 1,
+   "cat": "תחבורה, כבישים וחניה"
+  },
+  {
+   "d": "kavim-t.co.il",
+   "level": 1,
+   "cat": "תחבורה, כבישים וחניה"
+  },
+  {
+   "d": "metropoline.com",
+   "level": 1,
+   "cat": "תחבורה, כבישים וחניה"
+  },
+  {
+   "d": "nateevexpress.com",
+   "level": 1,
+   "cat": "תחבורה, כבישים וחניה"
+  },
+  {
+   "d": "afikim-t.co.il",
+   "level": 1,
+   "cat": "תחבורה, כבישים וחניה"
+  },
+  {
+   "d": "superbus.co.il",
+   "level": 1,
+   "cat": "תחבורה, כבישים וחניה"
+  },
+  {
+   "d": "iroads.co.il",
+   "level": 1,
+   "cat": "תחבורה, כבישים וחניה"
+  },
+  {
+   "d": "kvish6.co.il",
+   "level": 1,
+   "cat": "תחבורה, כבישים וחניה"
+  },
+  {
+   "d": "6cn.co.il",
+   "level": 1,
+   "cat": "תחבורה, כבישים וחניה"
+  },
+  {
+   "d": "carmeltunnels.co.il",
+   "level": 1,
+   "cat": "תחבורה, כבישים וחניה"
+  },
+  {
+   "d": "fastlane.co.il",
+   "level": 1,
+   "cat": "תחבורה, כבישים וחניה"
+  },
+  {
+   "d": "pango.co.il",
+   "level": 1,
+   "cat": "תחבורה, כבישים וחניה"
+  },
+  {
+   "d": "cellopark.co.il",
+   "level": 1,
+   "cat": "תחבורה, כבישים וחניה"
+  },
+  {
+   "d": "iec.co.il",
+   "level": 1,
+   "cat": "חשבונות, תשתיות ותקשורת"
+  },
+  {
+   "d": "electra-power.co.il",
+   "level": 1,
+   "cat": "חשבונות, תשתיות ותקשורת"
+  },
+  {
+   "d": "cellcomenergy.co.il",
+   "level": 1,
+   "cat": "חשבונות, תשתיות ותקשורת"
+  },
+  {
+   "d": "bezeqenergy.co.il",
+   "level": 1,
+   "cat": "חשבונות, תשתיות ותקשורת"
+  },
+  {
+   "d": "pazgas.co.il",
+   "level": 1,
+   "cat": "חשבונות, תשתיות ותקשורת"
+  },
+  {
+   "d": "amisragas.co.il",
+   "level": 1,
+   "cat": "חשבונות, תשתיות ותקשורת"
+  },
+  {
+   "d": "supergas.co.il",
+   "level": 1,
+   "cat": "חשבונות, תשתיות ותקשורת"
+  },
+  {
+   "d": "mei-hadera.co.il",
+   "level": 1,
+   "cat": "חשבונות, תשתיות ותקשורת"
+  },
+  {
+   "d": "mei-avivim.co.il",
+   "level": 1,
+   "cat": "חשבונות, תשתיות ותקשורת"
+  },
+  {
+   "d": "hagihon.co.il",
+   "level": 1,
+   "cat": "חשבונות, תשתיות ותקשורת"
+  },
+  {
+   "d": "mei-carmel.co.il",
+   "level": 1,
+   "cat": "חשבונות, תשתיות ותקשורת"
+  },
+  {
+   "d": "mey-sheva.co.il",
+   "level": 1,
+   "cat": "חשבונות, תשתיות ותקשורת"
+  },
+  {
+   "d": "israelpost.co.il",
+   "level": 1,
+   "cat": "חשבונות, תשתיות ותקשורת"
+  },
+  {
+   "d": "bezeq.co.il",
+   "level": 1,
+   "cat": "חשבונות, תשתיות ותקשורת"
+  },
+  {
+   "d": "bezeqint.net",
+   "level": 1,
+   "cat": "חשבונות, תשתיות ותקשורת"
+  },
+  {
+   "d": "partner.co.il",
+   "level": 1,
+   "cat": "חשבונות, תשתיות ותקשורת"
+  },
+  {
+   "d": "cellcom.co.il",
+   "level": 1,
+   "cat": "חשבונות, תשתיות ותקשורת"
+  },
+  {
+   "d": "pelephone.co.il",
+   "level": 1,
+   "cat": "חשבונות, תשתיות ותקשורת"
+  },
+  {
+   "d": "hot.net.il",
+   "level": 1,
+   "cat": "חשבונות, תשתיות ותקשורת"
+  },
+  {
+   "d": "hotmobile.co.il",
+   "level": 1,
+   "cat": "חשבונות, תשתיות ותקשורת"
+  },
+  {
+   "d": "golantelecom.co.il",
+   "level": 1,
+   "cat": "חשבונות, תשתיות ותקשורת"
+  },
+  {
+   "d": "rami-levy-tikshoret.co.il",
+   "level": 1,
+   "cat": "חשבונות, תשתיות ותקשורת"
+  },
+  {
+   "d": "019mobile.co.il",
+   "level": 1,
+   "cat": "חשבונות, תשתיות ותקשורת"
+  },
+  {
+   "d": "muni.il",
+   "level": 1,
+   "cat": "עיריות ורשויות"
+  },
+  {
+   "d": "masham.org.il",
+   "level": 1,
+   "cat": "עיריות ורשויות"
+  },
+  {
+   "d": "mast.co.il",
+   "level": 1,
+   "cat": "עיריות ורשויות"
+  },
+  {
+   "d": "citypay.co.il",
+   "level": 1,
+   "cat": "עיריות ורשויות"
+  },
+  {
+   "d": "shva.co.il",
+   "level": 1,
+   "cat": "סליקה ותשלומים"
+  },
+  {
+   "d": "pelecard.biz",
+   "level": 1,
+   "cat": "סליקה ותשלומים"
+  },
+  {
+   "d": "tranzila.com",
+   "level": 1,
+   "cat": "סליקה ותשלומים"
+  },
+  {
+   "d": "cardcom.solutions",
+   "level": 1,
+   "cat": "סליקה ותשלומים"
+  },
+  {
+   "d": "yaad.net",
+   "level": 1,
+   "cat": "סליקה ותשלומים"
+  },
+  {
+   "d": "creditguard.co.il",
+   "level": 1,
+   "cat": "סליקה ותשלומים"
+  },
+  {
+   "d": "gstatic.com",
+   "level": 1,
+   "cat": "תשתית אתרים (רקע)"
+  },
+  {
+   "d": "googleapis.com",
+   "level": 1,
+   "cat": "תשתית אתרים (רקע)"
+  },
+  {
+   "d": "recaptcha.net",
+   "level": 1,
+   "cat": "תשתית אתרים (רקע)"
+  },
+  {
+   "d": "cloudflare.com",
+   "level": 1,
+   "cat": "תשתית אתרים (רקע)"
+  },
+  {
+   "d": "outlook.live.com",
+   "level": 1,
+   "cat": "דואר מיקרוסופט"
+  },
+  {
+   "d": "outlook.office.com",
+   "level": 1,
+   "cat": "דואר מיקרוסופט"
+  },
+  {
+   "d": "login.microsoftonline.com",
+   "level": 1,
+   "cat": "דואר מיקרוסופט"
+  },
+  {
+   "d": "login.live.com",
+   "level": 1,
+   "cat": "דואר מיקרוסופט"
+  },
+  {
+   "d": "waze.com",
+   "level": 2,
+   "cat": "ניווט ומזג אוויר"
+  },
+  {
+   "d": "moovitapp.com",
+   "level": 2,
+   "cat": "ניווט ומזג אוויר"
+  },
+  {
+   "d": "ims.gov.il",
+   "level": 2,
+   "cat": "ניווט ומזג אוויר"
+  },
+  {
+   "d": "shufersal.co.il",
+   "level": 2,
+   "cat": "קניות מזון, פארם ובית"
+  },
+  {
+   "d": "rami-levy.co.il",
+   "level": 2,
+   "cat": "קניות מזון, פארם ובית"
+  },
+  {
+   "d": "victoryonline.co.il",
+   "level": 2,
+   "cat": "קניות מזון, פארם ובית"
+  },
+  {
+   "d": "yochananof.co.il",
+   "level": 2,
+   "cat": "קניות מזון, פארם ובית"
+  },
+  {
+   "d": "carrefour.co.il",
+   "level": 2,
+   "cat": "קניות מזון, פארם ובית"
+  },
+  {
+   "d": "osherad.co.il",
+   "level": 2,
+   "cat": "קניות מזון, פארם ובית"
+  },
+  {
+   "d": "mishnatyosef.org",
+   "level": 2,
+   "cat": "קניות מזון, פארם ובית"
+  },
+  {
+   "d": "super-pharm.co.il",
+   "level": 2,
+   "cat": "קניות מזון, פארם ובית"
+  },
+  {
+   "d": "bepharm.co.il",
+   "level": 2,
+   "cat": "קניות מזון, פארם ובית"
+  },
+  {
+   "d": "goodpharm.co.il",
+   "level": 2,
+   "cat": "קניות מזון, פארם ובית"
+  },
+  {
+   "d": "ksp.co.il",
+   "level": 2,
+   "cat": "קניות מזון, פארם ובית"
+  },
+  {
+   "d": "ivory.co.il",
+   "level": 2,
+   "cat": "קניות מזון, פארם ובית"
+  },
+  {
+   "d": "bug.co.il",
+   "level": 2,
+   "cat": "קניות מזון, פארם ובית"
+  },
+  {
+   "d": "ace.co.il",
+   "level": 2,
+   "cat": "קניות מזון, פארם ובית"
+  },
+  {
+   "d": "homecenter.co.il",
+   "level": 2,
+   "cat": "קניות מזון, פארם ובית"
+  },
+  {
+   "d": "ikea.com",
+   "level": 2,
+   "cat": "קניות מזון, פארם ובית"
+  },
+  {
+   "d": "zap.co.il",
+   "level": 2,
+   "cat": "קניות מזון, פארם ובית"
+  },
+  {
+   "d": "ac.il",
+   "level": 2,
+   "cat": "חינוך ולימודים"
+  },
+  {
+   "d": "cet.ac.il",
+   "level": 2,
+   "cat": "חינוך ולימודים"
+  },
+  {
+   "d": "10monkeys.com",
+   "level": 2,
+   "cat": "חינוך ולימודים"
+  },
+  {
+   "d": "mikudim.co.il",
+   "level": 2,
+   "cat": "חינוך ולימודים"
+  },
+  {
+   "d": "geva.co.il",
+   "level": 2,
+   "cat": "חינוך ולימודים"
+  },
+  {
+   "d": "hebrew-academy.org.il",
+   "level": 2,
+   "cat": "חינוך ולימודים"
+  },
+  {
+   "d": "milononline.net",
+   "level": 2,
+   "cat": "חינוך ולימודים"
+  },
+  {
+   "d": "morfix.co.il",
+   "level": 2,
+   "cat": "חינוך ולימודים"
+  },
+  {
+   "d": "hamichlol.org.il",
+   "level": 2,
+   "cat": "חינוך ולימודים"
+  },
+  {
+   "d": "sefaria.org.il",
+   "level": 2,
+   "cat": "תורה ויהדות"
+  },
+  {
+   "d": "hebrewbooks.org",
+   "level": 2,
+   "cat": "תורה ויהדות"
+  },
+  {
+   "d": "otzar.org",
+   "level": 2,
+   "cat": "תורה ויהדות"
+  },
+  {
+   "d": "daf-yomi.com",
+   "level": 2,
+   "cat": "תורה ויהדות"
+  },
+  {
+   "d": "yeshiva.org.il",
+   "level": 2,
+   "cat": "תורה ויהדות"
+  },
+  {
+   "d": "din.org.il",
+   "level": 2,
+   "cat": "תורה ויהדות"
+  },
+  {
+   "d": "chabad.org.il",
+   "level": 2,
+   "cat": "תורה ויהדות"
+  },
+  {
+   "d": "alljobs.co.il",
+   "level": 2,
+   "cat": "עבודה וכלים"
+  },
+  {
+   "d": "drushim.co.il",
+   "level": 2,
+   "cat": "עבודה וכלים"
+  },
+  {
+   "d": "jobmaster.co.il",
+   "level": 2,
+   "cat": "עבודה וכלים"
+  },
+  {
+   "d": "checkid.co.il",
+   "level": 2,
+   "cat": "עבודה וכלים"
+  },
+  {
+   "d": "guidestar.org.il",
+   "level": 2,
+   "cat": "עבודה וכלים"
+  },
+  {
+   "d": "b144.co.il",
+   "level": 2,
+   "cat": "עבודה וכלים"
+  },
+  {
+   "d": "greeninvoice.co.il",
+   "level": 2,
+   "cat": "עבודה וכלים"
+  },
+  {
+   "d": "icount.co.il",
+   "level": 2,
+   "cat": "עבודה וכלים"
+  },
+  {
+   "d": "ezcount.co.il",
+   "level": 2,
+   "cat": "עבודה וכלים"
+  },
+  {
+   "d": "rivhit.co.il",
+   "level": 2,
+   "cat": "עבודה וכלים"
+  },
+  {
+   "d": "canva.com",
+   "level": 2,
+   "cat": "עבודה וכלים"
+  },
+  {
+   "d": "zoom.us",
+   "level": 2,
+   "cat": "עבודה וכלים"
+  },
+  {
+   "d": "oref.org.il",
+   "level": 2,
+   "cat": "חירום, טיולים וטיסות"
+  },
+  {
+   "d": "parks.org.il",
+   "level": 2,
+   "cat": "חירום, טיולים וטיסות"
+  },
+  {
+   "d": "kkl.org.il",
+   "level": 2,
+   "cat": "חירום, טיולים וטיסות"
+  },
+  {
+   "d": "elal.com",
+   "level": 2,
+   "cat": "חירום, טיולים וטיסות"
+  },
+  {
+   "d": "arkia.co.il",
+   "level": 2,
+   "cat": "חירום, טיולים וטיסות"
+  },
+  {
+   "d": "israir.co.il",
+   "level": 2,
+   "cat": "חירום, טיולים וטיסות"
+  },
+  {
+   "d": "kipa.co.il",
+   "level": 3,
+   "cat": "תוכן יהודי עם חדשות (שמור לשלב 3)"
+  },
+  {
+   "d": "hidabroot.org",
+   "level": 3,
+   "cat": "תוכן יהודי עם חדשות (שמור לשלב 3)"
+  },
+  {
+   "d": "mail.walla.co.il",
+   "level": 1,
+   "cat": "דואר וואלה",
+   "exact": true
+  }
+ ]
+}
